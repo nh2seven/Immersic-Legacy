@@ -5,7 +5,7 @@
 - https://github.com/mdeff/fma
 - https://magenta.tensorflow.org/datasets/nsynth
 - https://magenta.tensorflow.org/datasets/e-gmd
-- 
+- https://www.kaggle.com/datasets/vincentloos/classical-music-midi-as-csv
 
 # Articles
 - https://blog.paperspace.com/music-generation-with-lstms/
