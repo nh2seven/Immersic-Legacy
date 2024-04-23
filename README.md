@@ -18,14 +18,11 @@ Generation of ambient music using neural networks.
 # Project Documentation
 > This section of this README contains the actual project documentation, which is a work in progress.
 ### Data Information
-The base dataset used for this project is a subset of the Lakh MIDI dataset, which contains about 17000 MIDI files.
+The base dataset used for this project is the [Maestro v3.0.0 MIDI Dataset](https://storage.googleapis.com/magentadata/datasets/maestro/v3.0.0/maestro-v3.0.0-midi.zip).
 
-Note that `Data/Archive` is ignored by Git, due to a very large directory size (about 874MB).
-The dataset can however be downloaded from here: https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean
-- `Data/Archive` contains the raw MIDI files, separated into multiple subdirectories.
-- `Data/Preprocessed` contains usable data formats for future purposes.
 
 # Important Links
+> This section of this README contains important links that are relevant to the project/were referred to during development.
 ### Datasets
 - https://colinraffel.com/projects/lmd/
 - https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean

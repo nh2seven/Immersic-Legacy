@@ -1,3 +1,11 @@
+.ipynb_checkpoints
+Data/Classical_Archive
+Data/Immersic_Archive
 Data/Lakh_Archive
+Data/Maestro_Archive
+Data/OlderVersions
 Data/Preprocessed
 Data/Samples
+notes*
+generated*.mid
+/weights-*
